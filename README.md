@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tejNer
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on some easy python project
+- 📫 How to reach me: Discord tejN_#6412
